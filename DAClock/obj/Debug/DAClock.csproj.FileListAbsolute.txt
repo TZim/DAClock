@@ -1,0 +1,9 @@
+C:\Users\GLD\Documents\Programs\C#\DAClock\DAClock\bin\Debug\DAClock.exe.config
+C:\Users\GLD\Documents\Programs\C#\DAClock\DAClock\bin\Debug\DAClock.exe
+C:\Users\GLD\Documents\Programs\C#\DAClock\DAClock\bin\Debug\DAClock.pdb
+C:\Users\GLD\Documents\Programs\C#\DAClock\DAClock\obj\Debug\DAClock.Form1.resources
+C:\Users\GLD\Documents\Programs\C#\DAClock\DAClock\obj\Debug\DAClock.Properties.Resources.resources
+C:\Users\GLD\Documents\Programs\C#\DAClock\DAClock\obj\Debug\DAClock.csproj.GenerateResource.Cache
+C:\Users\GLD\Documents\Programs\C#\DAClock\DAClock\obj\Debug\DAClock.exe
+C:\Users\GLD\Documents\Programs\C#\DAClock\DAClock\obj\Debug\DAClock.pdb
+C:\Users\GLD\Documents\Programs\C#\DAClock\DAClock\obj\Debug\DAClock.csprojResolveAssemblyReference.cache
